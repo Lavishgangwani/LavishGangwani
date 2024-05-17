@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavishgangwani&label=Profile%20views&color=0e75b6&style=flat" alt="lavishgangwani" /> </p>
 
-- 🔭 I’m currently working on **building up my my GitHub with data science project**
+- 🔭 I’m currently working on **building up my GitHub with data science project**
 
 - 🌱 I’m currently learning **about deploying machine learning models using frameworks like FastAPI, Docker, and Kubernetes to create scalable and efficient production systems.**
 

@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 [![](https://github.com/Lavishgangwani/Lavishgangwani/blob/main/chat.svg)](https://www.linkedin.com/in/lavish-gangwani)
 
 <h3 align="center">A passionate Data Science Enthusiast</h3>
